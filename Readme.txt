@@ -1,5 +1,4 @@
-﻿Name: Akanksha Paliwal
-SFSU ID: 921427283
+
 
 
 
@@ -59,7 +58,3 @@ Q8. Suboptimal Search
 For finding the closest food dot, we just need to do a BFS, and stop once we have reached a food item. For this, we simply call a BFS (implemented in Q2) and apply it to AnyFoodSearchProblem. AnyFoodSearchProblem is implemented to return true on isGoalState as soon as the current state has reached any of the foodItem.
 
 
-
-
-Time taken Spent about a total of 15 hours in two weeks. 
-Stated with reading up about the algorithm, pseudo-codes, and suggested text readings. Started with translating from pseudo-codes for the first 4 questions which took about 4-5 hours. It took about 2 hours on Implementing Corner Search Problem (Q5) and trying out simple heuristics for Corner Search Problem (Q6). Coming up with the optimum heuristic for the Corner Search Problem (Q6) took about an hour and additional 4 hours in trying multiple heuristic for Eating All Dots. Searching online and trying that heuristic which gave an optimal solution. And lastly about 1/2 hour on Suboptimal Search.
